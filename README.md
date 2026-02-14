@@ -1,5 +1,5 @@
 # 💫 About Me:
-Python Developer and a student from BITS PILANI BSc CS programme<br>Working with Python and Django Rest Framework<br>Currently learning Devops<br>
+Dev
 
 
 # 💻 Tech Stack:
