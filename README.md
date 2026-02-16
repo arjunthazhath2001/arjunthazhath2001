@@ -1,5 +1,5 @@
 # 💫 About Me:
-Dev
+Pretty much any skill can be learnt and mastered - Sales, Coding, Entrepreneurship, even Rocketry!!!
 
 
 # 💻 Tech Stack:
